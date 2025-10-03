@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 你好，我是huwuhu帅
 
-<!--
-**huwuhu6/huwuhu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 自我介绍
 
-Here are some ideas to get you started:
+我是一位福州大学计算机本科生，正在学习后端开发
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 学习方向
+
+对AI大模型以及软件开发等感兴趣
+
+### 未来展望
+
+首先学习技术，在后期再加上考公
