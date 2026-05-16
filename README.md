@@ -19,10 +19,7 @@
 
 ### 📊 运行状态
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huwuhu6&show_icons=true&theme=dark&hide_border=true" alt="huwuhu's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huwuhu6&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</p>
+![](https://one-graph-contributions.vercel.app/api?username=huwuhu6&theme=github-dark-teal)
 
 ---
 
